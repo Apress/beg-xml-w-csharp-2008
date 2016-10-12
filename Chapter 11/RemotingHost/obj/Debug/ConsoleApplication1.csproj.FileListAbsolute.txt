@@ -1,0 +1,14 @@
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\bin\Debug\EmployeeServer.dll
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\bin\Debug\EmployeeServer.pdb
+C:\Bipin\Code\Chapter 11\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 11\RemotingHost\obj\Debug\ConsoleApplication1.exe
+C:\Bipin\Code\Chapter 11\RemotingHost\obj\Debug\ConsoleApplication1.pdb
+C:\Bipin\Code\Chapter 11\RemotingHost\bin\Debug\ConsoleApplication1.exe
+C:\Bipin\Code\Chapter 11\RemotingHost\bin\Debug\ConsoleApplication1.pdb
+C:\Bipin\Code\Chapter 11\RemotingHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 11\RemotingHost\bin\Debug\EmployeeServer.dll
+C:\Bipin\Code\Chapter 11\RemotingHost\bin\Debug\EmployeeServer.pdb

@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 09\WindowsApplication55\bin\Debug\WindowsApplication55.exe.config
+C:\Bipin\Code\Chapter 09\WindowsApplication55\obj\Debug\WindowsApplication55.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication55\obj\Debug\WindowsApplication55.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication55\bin\Debug\WindowsApplication55.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication55\bin\Debug\WindowsApplication55.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication55\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 09\WindowsApplication55\obj\Debug\WindowsApplication55.Form1.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication55\obj\Debug\WindowsApplication55.Properties.Resources.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication55\obj\Debug\WindowsApplication55.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 09\SOAPHeadersClient\bin\Debug\WindowsApplication55.exe.config
+C:\Bipin\Code\Chapter 09\SOAPHeadersClient\obj\Debug\WindowsApplication55.exe
+C:\Bipin\Code\Chapter 09\SOAPHeadersClient\obj\Debug\WindowsApplication55.pdb

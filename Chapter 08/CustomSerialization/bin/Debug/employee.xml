@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<MyEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EmployeeCode="1">
+  <FName>a</FName>
+  <LName>a</LName>
+  <Remarks>a</Remarks>
+  <EmployeeType>Permanent Employee</EmployeeType>
+  <EmailAddresses>
+    <Email>a</Email>
+  </EmailAddresses>
+  <Address>
+    <Street>a</Street>
+    <City>aa</City>
+    <State>a</State>
+    <Country>a</Country>
+    <PostalCode>a</PostalCode>
+  </Address>
+</MyEmployee>

@@ -1,0 +1,16 @@
+C:\Bipin\Code\Chapter 08\WindowsApplication46\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication46\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication46\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication46\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication46\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\WindowsApplication46\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication46\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication46\obj\Debug\WindowsApplication46.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\XmlSerializationEvents\obj\Debug\WindowsApplication46.csproj.GenerateResource.Cache

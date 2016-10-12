@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\LoadXML\bin\Debug\LoadXML.exe
+C:\Bipin\Code\Chapter 13\LoadXML\bin\Debug\LoadXML.pdb
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.Form1.resources
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.exe
+C:\Bipin\Code\Chapter 13\LoadXML\obj\Debug\LoadXML.pdb

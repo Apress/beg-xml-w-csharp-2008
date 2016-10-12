@@ -1,0 +1,16 @@
+C:\Bipin\Code\Chapter 04\WindowsApplication20\obj\Debug\WindowsApplication20.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication20\obj\Debug\WindowsApplication20.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication20\bin\Debug\WindowsApplication20.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication20\bin\Debug\WindowsApplication20.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication20\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\WindowsApplication20\obj\Debug\WindowsApplication20.Form1.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication20\obj\Debug\WindowsApplication20.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication20\obj\Debug\WindowsApplication20.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\obj\Debug\WindowsApplication20.exe
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\obj\Debug\WindowsApplication20.pdb
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\bin\Debug\WindowsApplication20.exe
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\bin\Debug\WindowsApplication20.pdb
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\obj\Debug\WindowsApplication20.Form1.resources
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\obj\Debug\WindowsApplication20.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\XmlReaderFromNavigator\obj\Debug\WindowsApplication20.csproj.GenerateResource.Cache

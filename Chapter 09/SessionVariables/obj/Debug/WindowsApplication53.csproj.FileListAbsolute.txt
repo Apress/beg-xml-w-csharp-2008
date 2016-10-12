@@ -1,0 +1,9 @@
+C:\Bipin\Code\Chapter 09\WindowsApplication53\bin\Debug\WindowsApplication53.exe.config
+C:\Bipin\Code\Chapter 09\WindowsApplication53\obj\Debug\WindowsApplication53.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication53\obj\Debug\WindowsApplication53.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication53\bin\Debug\WindowsApplication53.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication53\bin\Debug\WindowsApplication53.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication53\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 09\WindowsApplication53\obj\Debug\WindowsApplication53.Form1.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication53\obj\Debug\WindowsApplication53.Properties.Resources.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication53\obj\Debug\WindowsApplication53.csproj.GenerateResource.Cache

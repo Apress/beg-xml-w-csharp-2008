@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 09\WindowsApplication52\bin\Debug\WindowsApplication52.exe.config
+C:\Bipin\Code\Chapter 09\WindowsApplication52\obj\Debug\WindowsApplication52.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication52\obj\Debug\WindowsApplication52.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication52\bin\Debug\WindowsApplication52.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication52\bin\Debug\WindowsApplication52.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication52\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 09\WindowsApplication52\obj\Debug\WindowsApplication52.Form1.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication52\obj\Debug\WindowsApplication52.Properties.Resources.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication52\obj\Debug\WindowsApplication52.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 09\WebServiceClient\bin\Debug\WindowsApplication52.exe.config
+C:\Bipin\Code\Chapter 09\WebServiceClient\obj\Debug\WindowsApplication52.exe
+C:\Bipin\Code\Chapter 09\WebServiceClient\obj\Debug\WindowsApplication52.pdb

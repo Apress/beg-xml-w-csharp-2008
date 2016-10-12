@@ -1,0 +1,16 @@
+C:\Bipin\Code\Chapter 08\WindowsApplication47\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication47\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication47\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\WindowsApplication47\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\WindowsApplication47\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\WindowsApplication47\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication47\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\WindowsApplication47\obj\Debug\WindowsApplication47.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\obj\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\obj\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\bin\Debug\WindowsApplication45.exe
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\bin\Debug\WindowsApplication45.pdb
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\obj\Debug\WindowsApplication45.Form1.resources
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\obj\Debug\WindowsApplication45.Properties.Resources.resources
+C:\Bipin\Code\Chapter 08\SerializeComplexTypes\obj\Debug\WindowsApplication47.csproj.GenerateResource.Cache

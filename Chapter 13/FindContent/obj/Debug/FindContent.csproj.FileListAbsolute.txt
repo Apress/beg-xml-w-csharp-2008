@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\FindContent\bin\Debug\FindContent.exe
+C:\Bipin\Code\Chapter 13\FindContent\bin\Debug\FindContent.pdb
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.Form1.resources
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.exe
+C:\Bipin\Code\Chapter 13\FindContent\obj\Debug\FindContent.pdb

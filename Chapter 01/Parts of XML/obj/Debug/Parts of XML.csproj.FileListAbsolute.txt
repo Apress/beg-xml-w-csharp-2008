@@ -1,0 +1,7 @@
+C:\Bipin\Code\Chapter 01\Parts of XML\bin\Debug\Parts of XML.exe.config
+C:\Bipin\Code\Chapter 01\Parts of XML\bin\Debug\Parts of XML.XML
+C:\Bipin\Code\Chapter 01\Parts of XML\obj\Debug\Parts of XML.exe
+C:\Bipin\Code\Chapter 01\Parts of XML\obj\Debug\Parts of XML.pdb
+C:\Bipin\Code\Chapter 01\Parts of XML\bin\Debug\Parts of XML.exe
+C:\Bipin\Code\Chapter 01\Parts of XML\bin\Debug\Parts of XML.pdb
+C:\Bipin\Code\Chapter 01\Parts of XML\obj\Debug\ResolveAssemblyReference.cache

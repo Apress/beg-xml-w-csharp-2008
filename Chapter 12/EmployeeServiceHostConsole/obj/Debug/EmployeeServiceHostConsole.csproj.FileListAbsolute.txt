@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\bin\Debug\EmployeeLibrary.dll
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\bin\Debug\EmployeeLibrary.pdb
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\bin\Debug\EmployeeServiceHostConsole.exe.config
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\bin\Debug\EmployeeServiceHostConsole.exe
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\bin\Debug\EmployeeServiceHostConsole.pdb
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\obj\Debug\EmployeeServiceHostConsole.exe
+C:\Bipin\Code\Chapter 12\EmployeeServiceHostConsole\obj\Debug\EmployeeServiceHostConsole.pdb

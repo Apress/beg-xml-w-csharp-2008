@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\ValidateSchema\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\ValidateSchema\obj\Debug\ValidateSchema.Form1.resources
+C:\Bipin\Code\Chapter 13\ValidateSchema\obj\Debug\ValidateSchema.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\ValidateSchema\obj\Debug\ValidateSchema.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\ValidateSchema\bin\Debug\ValidateSchema.exe
+C:\Bipin\Code\Chapter 13\ValidateSchema\bin\Debug\ValidateSchema.pdb
+C:\Bipin\Code\Chapter 13\ValidateSchema\obj\Debug\ValidateSchema.exe
+C:\Bipin\Code\Chapter 13\ValidateSchema\obj\Debug\ValidateSchema.pdb

@@ -1,0 +1,16 @@
+C:\Bipin\Code\Chapter 04\WindowsApplication22\obj\Debug\WindowsApplication22.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication22\obj\Debug\WindowsApplication22.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+C:\Bipin\Code\Chapter 04\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+C:\Bipin\Code\Chapter 04\WindowsApplication22\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\WindowsApplication22\obj\Debug\WindowsApplication22.Form1.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication22\obj\Debug\WindowsApplication22.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\WindowsApplication22\obj\Debug\WindowsApplication22.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\obj\Debug\WindowsApplication22.exe
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\obj\Debug\WindowsApplication22.pdb
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\bin\Debug\WindowsApplication22.exe
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\bin\Debug\WindowsApplication22.pdb
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\obj\Debug\WindowsApplication22.Form1.resources
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\obj\Debug\WindowsApplication22.Properties.Resources.resources
+C:\Bipin\Code\Chapter 04\EditingWithNavigator\obj\Debug\WindowsApplication22.csproj.GenerateResource.Cache

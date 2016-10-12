@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.Form1.resources
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\NavigateXML\bin\Debug\NavigateXML.exe
+C:\Bipin\Code\Chapter 13\NavigateXML\bin\Debug\NavigateXML.pdb
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.exe
+C:\Bipin\Code\Chapter 13\NavigateXML\obj\Debug\NavigateXML.pdb

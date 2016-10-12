@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.Form1.resources
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\TransformXML\bin\Debug\TransformXML.exe
+C:\Bipin\Code\Chapter 13\TransformXML\bin\Debug\TransformXML.pdb
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.exe
+C:\Bipin\Code\Chapter 13\TransformXML\obj\Debug\TransformXML.pdb

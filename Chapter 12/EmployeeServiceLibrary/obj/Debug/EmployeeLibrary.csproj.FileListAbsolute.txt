@@ -1,0 +1,5 @@
+C:\Bipin\Code\Chapter 12\EmployeeServiceLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Bipin\Code\Chapter 12\EmployeeServiceLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Bipin\Code\Chapter 12\EmployeeServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 12\EmployeeServiceLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Bipin\Code\Chapter 12\EmployeeServiceLibrary\obj\Debug\EmployeeLibrary.pdb

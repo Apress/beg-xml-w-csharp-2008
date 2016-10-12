@@ -1,0 +1,16 @@
+C:\Bipin\Code\Chapter 10\WindowsApplication57\obj\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\WindowsApplication57\obj\Debug\WindowsApplication56.pdb
+C:\Bipin\Code\Chapter 10\WindowsApplication57\bin\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\WindowsApplication57\bin\Debug\WindowsApplication56.pdb
+C:\Bipin\Code\Chapter 10\WindowsApplication57\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 10\WindowsApplication57\obj\Debug\WindowsApplication56.Form1.resources
+C:\Bipin\Code\Chapter 10\WindowsApplication57\obj\Debug\WindowsApplication56.Properties.Resources.resources
+C:\Bipin\Code\Chapter 10\WindowsApplication57\obj\Debug\WindowsApplication57.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 10\ExecuteToStream\obj\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\ExecuteToStream\obj\Debug\WindowsApplication56.pdb
+C:\Bipin\Code\Chapter 10\ExecuteToStream\bin\Debug\WindowsApplication56.exe
+C:\Bipin\Code\Chapter 10\ExecuteToStream\bin\Debug\WindowsApplication56.pdb
+C:\Bipin\Code\Chapter 10\ExecuteToStream\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 10\ExecuteToStream\obj\Debug\WindowsApplication56.Form1.resources
+C:\Bipin\Code\Chapter 10\ExecuteToStream\obj\Debug\WindowsApplication56.Properties.Resources.resources
+C:\Bipin\Code\Chapter 10\ExecuteToStream\obj\Debug\WindowsApplication57.csproj.GenerateResource.Cache

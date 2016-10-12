@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\LINQBasic\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\LINQBasic\obj\Debug\LINQBasic.Form1.resources
+C:\Bipin\Code\Chapter 13\LINQBasic\obj\Debug\LINQBasic.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\LINQBasic\obj\Debug\LINQBasic.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\LINQBasic\bin\Debug\LINQBasic.exe
+C:\Bipin\Code\Chapter 13\LINQBasic\bin\Debug\LINQBasic.pdb
+C:\Bipin\Code\Chapter 13\LINQBasic\obj\Debug\LINQBasic.exe
+C:\Bipin\Code\Chapter 13\LINQBasic\obj\Debug\LINQBasic.pdb

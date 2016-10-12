@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\ModifyXML\bin\Debug\ModifyXML.exe
+C:\Bipin\Code\Chapter 13\ModifyXML\bin\Debug\ModifyXML.pdb
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.Form1.resources
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.exe
+C:\Bipin\Code\Chapter 13\ModifyXML\obj\Debug\ModifyXML.pdb

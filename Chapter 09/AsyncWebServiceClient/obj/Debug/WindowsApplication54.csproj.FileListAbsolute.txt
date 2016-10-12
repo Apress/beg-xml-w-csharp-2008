@@ -1,0 +1,12 @@
+C:\Bipin\Code\Chapter 09\WindowsApplication54\bin\Debug\WindowsApplication54.exe.config
+C:\Bipin\Code\Chapter 09\WindowsApplication54\obj\Debug\WindowsApplication54.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication54\obj\Debug\WindowsApplication54.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication54\bin\Debug\WindowsApplication54.exe
+C:\Bipin\Code\Chapter 09\WindowsApplication54\bin\Debug\WindowsApplication54.pdb
+C:\Bipin\Code\Chapter 09\WindowsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 09\WindowsApplication54\obj\Debug\WindowsApplication54.Form1.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication54\obj\Debug\WindowsApplication54.Properties.Resources.resources
+C:\Bipin\Code\Chapter 09\WindowsApplication54\obj\Debug\WindowsApplication54.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 09\AsyncWebServiceClient\bin\Debug\WindowsApplication54.exe.config
+C:\Bipin\Code\Chapter 09\AsyncWebServiceClient\obj\Debug\WindowsApplication54.exe
+C:\Bipin\Code\Chapter 09\AsyncWebServiceClient\obj\Debug\WindowsApplication54.pdb

@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.Form1.resources
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\Namespaces\bin\Debug\Namespaces.exe
+C:\Bipin\Code\Chapter 13\Namespaces\bin\Debug\Namespaces.pdb
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.exe
+C:\Bipin\Code\Chapter 13\Namespaces\obj\Debug\Namespaces.pdb

@@ -1,0 +1,10 @@
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\bin\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\bin\Debug\ClassLibrary0.pdb
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\obj\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\WindowsApplication00\ClassLibrary0\obj\Debug\ClassLibrary0.pdb
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\bin\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\bin\Debug\ClassLibrary0.pdb
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\obj\Debug\ClassLibrary0.dll
+C:\Bipin\Code\Chapter 01\HelloWindowdsWorld\HelloWorldLib\obj\Debug\ClassLibrary0.pdb

@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Form1.resources
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.exe
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\bin\Debug\ProjectingXMLToCollection.pdb
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.exe
+C:\Bipin\Code\Chapter 13\ProjectingXMLToCollection\obj\Debug\ProjectingXMLToCollection.pdb

@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\EventsOfXElement\bin\Debug\EventsOfXElement.exe
+C:\Bipin\Code\Chapter 13\EventsOfXElement\bin\Debug\EventsOfXElement.pdb
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.Form1.resources
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.exe
+C:\Bipin\Code\Chapter 13\EventsOfXElement\obj\Debug\EventsOfXElement.pdb

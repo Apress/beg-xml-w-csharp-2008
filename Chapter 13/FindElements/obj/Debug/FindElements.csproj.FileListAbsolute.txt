@@ -1,0 +1,8 @@
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.Form1.resources
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.Properties.Resources.resources
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 13\FindElements\bin\Debug\FindElements.exe
+C:\Bipin\Code\Chapter 13\FindElements\bin\Debug\FindElements.pdb
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.exe
+C:\Bipin\Code\Chapter 13\FindElements\obj\Debug\FindElements.pdb

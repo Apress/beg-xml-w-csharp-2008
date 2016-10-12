@@ -1,0 +1,10 @@
+C:\Bipin\Code\Chapter 11\ClassLibrary2\bin\Debug\EmployeeServer.dll
+C:\Bipin\Code\Chapter 11\ClassLibrary2\bin\Debug\EmployeeServer.pdb
+C:\Bipin\Code\Chapter 11\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 11\ClassLibrary2\obj\Debug\EmployeeServer.dll
+C:\Bipin\Code\Chapter 11\ClassLibrary2\obj\Debug\EmployeeServer.pdb
+C:\Bipin\Code\Chapter 11\RemotingServer\bin\Debug\EmployeeServer.dll
+C:\Bipin\Code\Chapter 11\RemotingServer\bin\Debug\EmployeeServer.pdb
+C:\Bipin\Code\Chapter 11\RemotingServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 11\RemotingServer\obj\Debug\EmployeeServer.dll
+C:\Bipin\Code\Chapter 11\RemotingServer\obj\Debug\EmployeeServer.pdb

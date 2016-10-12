@@ -1,0 +1,16 @@
+C:\Bipin\Code\Chapter 06\WindowsApplication32\obj\Debug\WindowsApplication32.exe
+C:\Bipin\Code\Chapter 06\WindowsApplication32\obj\Debug\WindowsApplication32.pdb
+C:\Bipin\Code\Chapter 06\WindowsApplication32\bin\Debug\WindowsApplication32.exe
+C:\Bipin\Code\Chapter 06\WindowsApplication32\bin\Debug\WindowsApplication32.pdb
+C:\Bipin\Code\Chapter 06\WindowsApplication32\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 06\WindowsApplication32\obj\Debug\WindowsApplication32.Form1.resources
+C:\Bipin\Code\Chapter 06\WindowsApplication32\obj\Debug\WindowsApplication32.Properties.Resources.resources
+C:\Bipin\Code\Chapter 06\WindowsApplication32\obj\Debug\WindowsApplication32.csproj.GenerateResource.Cache
+C:\Bipin\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.exe
+C:\Bipin\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.pdb
+C:\Bipin\Code\Chapter 06\Parameters\bin\Debug\WindowsApplication32.exe
+C:\Bipin\Code\Chapter 06\Parameters\bin\Debug\WindowsApplication32.pdb
+C:\Bipin\Code\Chapter 06\Parameters\obj\Debug\ResolveAssemblyReference.cache
+C:\Bipin\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.Form1.resources
+C:\Bipin\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.Properties.Resources.resources
+C:\Bipin\Code\Chapter 06\Parameters\obj\Debug\WindowsApplication32.csproj.GenerateResource.Cache
